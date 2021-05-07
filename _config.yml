@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zheng Gong"
   avatar           : "2.jpg"
-  bio              : "PhD candidate at Hong Kong Polytechnic University"
+  bio              : "PhD candidate \n [ Department of Computing ] (https://www.comp.polyu.edu.hk/) \n [The Hong Kong Polytechnic University] (https://www.polyu.edu.hk/)"
   location         : "Kowloon, Hong Kong SAR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RS03SskAAAAJ&hl=zh-CN&oi=sra"
-  email            :
+  email            : "marcogong22@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
