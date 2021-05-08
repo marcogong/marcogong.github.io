@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Hello World! I am an incoming PhD candidate at  [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests span the fields of cybersecurity, data-driven privacy, data profiling, networked systems and mobile computing.
-
 At PolyU, my researches are mainly under the supervision of [Dr.Ray Young](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about), who leads a resarch team called Tagsys. Prior, I obtained my bachelor's and master' degree at [Xidian University](https://en.xidian.edu.cn/) in computer science and cyberspace security, respectively. I work closely with [Dr.Ray Young](https://lihuixidian.github.io/).
 Getting started
 ======
