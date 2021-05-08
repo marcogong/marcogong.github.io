@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+## Papers
 **[Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_2)**
 <br/>
  **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
