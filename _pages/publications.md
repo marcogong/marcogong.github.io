@@ -21,6 +21,6 @@ author_profile: true
 <br/>
 *Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data*, September 2020 (CCF RANK C)
 <br/>
-[paper(https://arxiv.org/abs/2012.11717)] 
+[[paper](https://github.com/marcogong22/files/260.pdf] 
 
 <hr style="border:1px solid gray"/> 
