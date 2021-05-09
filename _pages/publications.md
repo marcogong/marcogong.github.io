@@ -31,4 +31,23 @@ author_profile: true
 
 
 ## Chinese Patents
+
+**A Method for Calculating the Probability of Information Leakage in an Open Scenario**
+<br/>
+Hui Li, **Zheng Gong**, Kechun Zhao, Jingwen Shi
+<br/>
+*Chinese Patent Number: 2021102826675*
+
+**A Method for Measuring Database Attribute Sensitivity Based on Attacking Probability**
+<br/>
+Hui Li, **Zheng Gong**, Kechun Zhao
+<br/>
+*Chinese Patent Number: 2020100074994*
+
+**A Desensitization Method For Chinese Name Based on Classification and Replacement**
+<br/>
+Hui Li, Kechun Zhao, **Zheng Gong**, Xue Meng
+<br/>
+*Chinese Patent Number: 2019104857878*
+
 <hr style="border:1px solid gray"/> 
