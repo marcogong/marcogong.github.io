@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.S. in Computer Science and Technology, Xidian University, 2018
 * M.S. in Cyberspace Security, Xidian University University, 2021
 * Ph.D in Computing, The Hong Kong Polytechnic University, 2024 (expected)
 
-<hr style="border:1px solid gray"/> 
 
-Academic Projects
-======
+
+## Academic Projects
+
 * Social Security Driven Desensitazation Standard and Sharing System
   * Tackled the sensitivity ranking problem of all attributes (columns) in random personal information data through mining all unique column combinations (UCC) and calculating the distribution of each column in all UCC based on revealing probability.
   * Developed a sensitivity quantification platform for the use of Hangzhou Shiping Information Technologies Co., Ltd.
@@ -35,29 +35,29 @@ Academic Projects
   * Utilized machine learning methods (CNN, SVM) to locate the license plate on all kinds of vehicles and recognize each character of it.
   * Achieved the detection model with high accuracy (>95%).
  
-<hr style="border:1px solid gray"/>   
 
-Skills List
-======
+
+## Skills List
+
 * Programming Languages: Python >C++>Java
 * Languages: Simlified Chinese (Native Speaker), English (Fluent)
 * Activities: Football (Proficient), Piano (Level 6)
 
-<hr style="border:1px solid gray"/> 
 
-Publications
-======
+
+## Publications
+
 Please check the [Publication](https://marcogong22.github.io/publications/) page to see the details of all the publications.
 
-Honors and Awards
-======
+## Honors and Awards
+
 * Exam-free Recommendation for Postgraduate in Xidian University
 * University-level First Class Scholarship for Postgraduate
 * University-level Scholarships for Undergraduate
 
-<hr style="border:1px solid gray"/> 
 
-Services
-======
+
+## Services
+
 <hr style="border:1px solid gray"/> 
 
