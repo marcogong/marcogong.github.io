@@ -14,7 +14,7 @@ Education
 * B.S. in Computer Science and Technology, Xidian University, 2018
 * M.S. in Cyberspace Security, Xidian University University, 2021
 * Ph.D in Computing, The Hong Kong Polytechnic University, 2024 (expected)
-* 
+
 <hr style="border:1px solid gray"/> 
 
 Academic Projects
@@ -34,7 +34,7 @@ Academic Projects
 * Intelligent License Plate Recognition Based on Neural Networks
   * Utilized machine learning methods (CNN, SVM) to locate the license plate on all kinds of vehicles and recognize each character of it.
   * Achieved the detection model with high accuracy (>95%).
-  * 
+ 
 <hr style="border:1px solid gray"/>   
 
 Skills List
@@ -47,11 +47,7 @@ Skills List
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-<hr style="border:1px solid gray"/> 
+Please check the [Publication](https://marcogong22.github.io/publications/) page to see the details of all the publications.
 
 Honors and Awards
 ======
