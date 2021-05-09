@@ -13,7 +13,7 @@ redirect_from:
 
 * B.S. in Computer Science and Technology, Xidian University, 2018
 * M.S. in Cyberspace Security, Xidian University University, 2021
-* Ph.D in Computing, The Hong Kong Polytechnic University, 2024 (expected)
+* Ph.D. in Computing, The Hong Kong Polytechnic University, 2024 (expected)
 
 
 
