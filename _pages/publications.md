@@ -27,7 +27,7 @@ author_profile: true
 <br/>
 **Zheng Gong**
 <br/>
-*Master Thesis, ready to submit to IEEE INFOCOM 2022*, 2021
+*Master Thesis, ready to submit to IEEE INFOCOM*, 2021
 
 
 ## Chinese Patents
