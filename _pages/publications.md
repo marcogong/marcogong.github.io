@@ -23,7 +23,7 @@ author_profile: true
 <br/>
 [[paper](https://marcogong22.github.io/files/260.pdf)] 
 
-**A Study of the Re-identification Risks of Nodes in Social Networks (in Simplified Chinese)**
+**A Study of the Re-identification Risks of Nodes in Social Networks** (in Simplified Chinese)
 <br/>
 **Zheng Gong**
 <br/>
