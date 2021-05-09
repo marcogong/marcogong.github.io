@@ -19,7 +19,7 @@ author_profile: true
 <br/>
  **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
 <br/>
-*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data*, September 2020 (CCF RANK C)
+*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)*, 2020 (CCF RANK C)
 <br/>
 [[paper](https://marcogong22.github.io/files/260.pdf)] 
 
@@ -27,8 +27,8 @@ author_profile: true
 <br/>
 **Zheng Gong**
 <br/>
-*Master Thesis, ready to submit to IEEE INFOCOM 2022*
+*Master Thesis, ready to submit to IEEE INFOCOM*, 2021
 
-<hr style="border:1px solid gray"/> 
 
 ## Chinese Patents
+<hr style="border:1px solid gray"/> 
