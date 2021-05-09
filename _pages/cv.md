@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+If you would like to request my CV in pdf version, please feel free to send me an [email](mailto:marcogong22@gmail.com) specifying your purpose.
 ## Education
 
 * B.S. in Computer Science and Technology, Xidian University, 2018
