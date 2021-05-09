@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Xidian University, 2018
+* M.S. in Cyberspace Security, Xidian University University, 2021
+* Ph.D in Computing, The Hong Kong Polytechnic University, 2024 (expected)
 
-Work experience
+Academic Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Social Security Driven Desensitazation Standard and Sharing System
+  * Tackled the sensitivity ranking problem of all attributes (columns) in random personal information data through mining all unique column combinations (UCC) and calculating the distribution of each column in all UCC based on revealing probability.
+  * Developed a sensitivity quantification platform for the use of Hangzhou Shiping Information Technologies Co., Ltd.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* A Study on the Re-identification Risks of Nodes in Social Network
+  * Reduced the structure and attribute based re-identification problem in social networks to maximum weighted bipartite matching problem through the construction of BFS based bipartite graph.
+  * Simulated the success ratio of each user being attacked in social networks given the background knowledge of adversary.
+
+* A Survey of Subgraph Querying Algorithms
+  * Surveyed all SOTA subgraph querying algorithms and their performances in different kinds of datasets.
+  * Proposed an ubiquitous, Nash Equilibrium-based method to enhance the efficiency of subgraph querying algorithm when processing arbitrary datasets.
+ 
+* Intelligent License Plate Recognition Based on Neural Networks
+  * Utilized machine learning methods (CNN, SVM) to locate the license plate on all kinds of vehicles and recognize each character of it.
+  * Achieved the detection model with high accuracy (>95%).
   
-Skills
+Skills List
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python >C++>Java
+* Languages: Simlified Chinese (Native Speaker), English (Fluent)
+* Activities: Football (Proficient), Piano (Level 6)
 
 Publications
 ======
@@ -42,18 +45,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Exam-free Recommendation for Postgraduate in Xidian University
+* University-level First Class Scholarship for Postgraduate
+* University-level Scholarships for Undergraduate
+
+
+Services
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
