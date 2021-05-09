@@ -23,4 +23,10 @@ author_profile: true
 <br/>
 [[paper](https://marcogong22.github.io/files/260.pdf)] 
 
+**A Study of the Re-identification Risks of Nodes in Social Networks**
+
+**Zheng Gong**
+*Master Thesis, ready to submit to IEEE INFOCOM 2022*
 <hr style="border:1px solid gray"/> 
+
+## Chinese Patents
