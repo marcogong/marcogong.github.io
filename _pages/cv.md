@@ -48,7 +48,7 @@ If you would like to request my CV in pdf version, please feel free to send me a
 
 ## Publications
 
-Please check the [Publication](https://marcogong22.github.io/publications/) page to see the details of all the publications.
+Please check the [Publications](https://marcogong22.github.io/publications/) page to see the details of all the publications.
 
 ## Honors and Awards
 
