@@ -52,7 +52,7 @@ Please check the [Publication](https://marcogong22.github.io/publications/) page
 
 ## Honors and Awards
 
-* Exam-free Recommendation for Postgraduate in Xidian University
+* Exam-free Recommendation for Postgraduate at Xidian University
 * University-level First Class Scholarship for Postgraduate
 * University-level Scholarships for Undergraduate
 
