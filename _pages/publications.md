@@ -21,7 +21,7 @@ author_profile: true
 <br/>
 *Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)*, 2020 (CCF RANK C)
 <br/>
-[[paper](https://marcogong22.github.io/files/260.pdf)] 
+[[paper](https://marcogong.github.io/files/260.pdf)] 
 
 **A Study of the Re-identification Risks of Nodes in Social Networks** (in Simplified Chinese)
 <br/>
