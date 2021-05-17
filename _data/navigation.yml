@@ -21,8 +21,12 @@ main:
   - title: "Misc"
     url: /misc/
     
+  - title: "Useful Links"
+    url: /useful_links/
+    
   - title: "Blogs"
     url: /year-archive/
  
+
 #  - title: "Guide"
  #   url: /markdown/
