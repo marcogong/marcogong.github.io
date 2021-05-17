@@ -11,5 +11,5 @@ redirect_from:
 
 
 
-* [Upcoming conferences](https://conferencetracker.github.io/).
+* [Upcoming conferences](https://conferencetracker.github.io/)
 
