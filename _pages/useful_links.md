@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful Links for a CS PhD Student"
+title: "Useful Links For a CS PhD Student"
 permalink: /useful_links/
 author_profile: true
 redirect_from:
