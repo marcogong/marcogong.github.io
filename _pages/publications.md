@@ -29,7 +29,7 @@ author_profile: true
 <br/>
 *Master Thesis, ready to submit to IEEE INFOCOM*, 2021
 
-**SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo)
+**SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
 Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
