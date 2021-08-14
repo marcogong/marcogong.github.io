@@ -29,7 +29,12 @@ author_profile: true
 <br/>
 *Master Thesis, ready to submit to IEEE INFOCOM*, 2021
 
-
+**SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo)
+<br/>
+Kechun Zhao, **Zheng Gong**, Hui Li, Jiangtao Cui
+<br/>
+30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5, 2021
+<br/>
 ## Chinese Patents
 
 **A Method for Calculating the Probability of Information Leakage in an Open Scenario**
