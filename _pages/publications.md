@@ -31,7 +31,7 @@ author_profile: true
 
 **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo)
 <br/>
-Kechun Zhao, **Zheng Gong**, Hui Li, Jiangtao Cui
+Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
 30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5, 2021
 <br/>
