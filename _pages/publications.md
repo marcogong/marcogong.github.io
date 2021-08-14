@@ -33,7 +33,7 @@ author_profile: true
 <br/>
 Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
-30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5, 2021
+*30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5,* 2021 (CCF RANK B)
 <br/>
 ## Chinese Patents
 
