@@ -35,6 +35,7 @@ Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
 *30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5,* 2021 (CCF RANK B)
 <br/>
+[[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 ## Chinese Patents
 
 **A Method for Calculating the Probability of Information Leakage in an Open Scenario**
