@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 ## Papers
+**Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
+<br/>
+**Zheng Gong**, Zhenlin An, Lubing Han, Lei Yang, Siqi Ding, Yu Xiang
+<br/>
+*ACM SIGCOMM*, 2022 (Accepted) (CCF RANK A)
+
 **[Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_2)**
 <br/>
  **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
