@@ -33,7 +33,7 @@ author_profile: true
 <br/>
 **Zheng Gong**
 <br/>
-*Master Thesis, ready to submit to IEEE INFOCOM*, 2021
+*Master Thesis*, 2021
 
 **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
