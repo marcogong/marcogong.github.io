@@ -11,15 +11,15 @@ redirect_from:
 
 If you would like to request my CV in pdf version, please feel free to send me an [email](mailto:marcogong22@gmail.com) specifying your purpose.
 ## Research Interest
-* Side-channel Communication and Attack
+* Structural Health Monitoring
 * Backscatter System
-* Piezoelectricity and Ultrasound
+* Piezoelectricity and Ultrasonics
 
 ## Education
 
-* B.Eng. in Computer Science and Technology, Xidian University, 2018
-* M.Eng. in Cyberspace Security, Xidian University, 2021
-* Ph.D. in Computing, The Hong Kong Polytechnic University, 2024 (expected)
+* B.Eng. in Computer Science and Technology, Xidian University, 2014~2018
+* M.Eng. in Cyberspace Security, Xidian University, 2018~2021
+* Ph.D. in Computing, The Hong Kong Polytechnic University, 2021~2024 (expected)
 
 
 
