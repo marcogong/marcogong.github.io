@@ -28,13 +28,14 @@ author_profile: true
 <br/>
 *ACM SIGCOMM*, 2022 (Accepted) (CCF RANK A)
 
-[3] **Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset**
+
+[3] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
- **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
+Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
-*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)*, 2020 (CCF RANK C)
+*ACM CIKM*， 2021 (CCF RANK B)
 <br/>
-[[paper](https://marcogong.github.io/files/260.pdf)] 
+[[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 
 [4] **A Study of the Re-identification Risks of Nodes in Social Networks** (in Simplified Chinese)
 <br/>
@@ -42,13 +43,14 @@ author_profile: true
 <br/>
 *Master Thesis*, 2021
 
-[5] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
+
+[5] **Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset**
 <br/>
-Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
+ **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
 <br/>
-*ACM CIKM*， 2021 (CCF RANK B)
+*Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)*, 2020 (CCF RANK C)
 <br/>
-[[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
+[[paper](https://marcogong.github.io/files/260.pdf)] 
 ## Chinese Patents
 
 [1] **A Method for Calculating the Probability of Information Leakage in an Open Scenario**
