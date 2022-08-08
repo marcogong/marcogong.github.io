@@ -15,6 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 ## Papers
+
+**Demo: Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper)
+<br/>
+**Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
+<br/>
+*ACM MobiCom*, 2022 (Accepted) (CCF RANK A)
+
 **Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
 <br/>
 **Zheng Gong**, Zhenlin An, Lubing Han, Lei Yang, Siqi Ding, Yu Xiang
@@ -39,7 +46,7 @@ author_profile: true
 <br/>
 Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
-*30th ACM International Conference on Information and Knowledge Management (CIKM), Online, Australia, Nov 1 - 5,* 2021 (CCF RANK B)
+*ACM CIKM*， 2021 (CCF RANK B)
 <br/>
 [[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 ## Chinese Patents
