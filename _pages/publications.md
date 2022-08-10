@@ -33,7 +33,7 @@ author_profile: true
 <br/>
 Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
-*ACM CIKM*， 2021 (CCF RANK B)
+*ACM CIKM*, 2021 (CCF RANK B)
 <br/>
 [[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 
