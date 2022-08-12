@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 ## Papers
 
-[1] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper)
+[1] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper)
 <br/>
 **Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 <br/>
@@ -27,7 +27,7 @@ author_profile: true
 **Zheng Gong**, Zhenlin An, Lubing Han, Lei Yang, Siqi Ding, Yu Xiang
 <br/>
 *ACM SIGCOMM*, 2022 (Accepted) (CCF RANK A)
-
+[[Website](https://anplus.github.io/In-concrete-Backscatter/))] [[Youtube video](https://youtu.be/gLRCQy2Q134)]
 
 [3] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
@@ -35,7 +35,7 @@ Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
 *ACM CIKM*, 2021 (CCF RANK B)
 <br/>
-[[paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
+[[Paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 
 [4] **A Study of the Re-identification Risks of Nodes in Social Networks** (in Simplified Chinese)
 <br/>
@@ -50,7 +50,7 @@ Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
 *Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data (APWeb-WAIM)*, 2020 (CCF RANK C)
 <br/>
-[[paper](https://marcogong.github.io/files/260.pdf)] 
+[[Paper](https://marcogong.github.io/files/260.pdf)] 
 ## Chinese Patents
 
 [1] **A Method for Calculating the Probability of Information Leakage in an Open Scenario**
