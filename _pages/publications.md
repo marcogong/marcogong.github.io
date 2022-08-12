@@ -20,15 +20,15 @@ author_profile: true
 <br/>
 **Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 <br/>
-*ACM MobiCom*, 2022 (Accepted) (CCF RANK A)
+*ACM MobiCom*, 2022 (CCF RANK A)
 
 [2] **Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
 <br/>
 **Zheng Gong**, Zhenlin An, Lubing Han, Lei Yang, Siqi Ding, Yu Xiang
 <br/>
-*ACM SIGCOMM*, 2022 (Accepted) (CCF RANK A)
+*ACM SIGCOMM*, 2022 (CCF RANK A)
 <br/>
-[[Website](https://anplus.github.io/In-concrete-Backscatter/))] [[Youtube video](https://youtu.be/gLRCQy2Q134)]
+[[Website](https://anplus.github.io/In-concrete-Backscatter/)] [[Youtube video](https://youtu.be/gLRCQy2Q134)][[Bilibili video](https://youtu.be/gLRCQy2Q134)]
 
 [3] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
