@@ -21,6 +21,8 @@ author_profile: true
 **Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 <br/>
 *ACM MobiCom*, 2022 (CCF RANK A)
+<br/>
+[[Paper](https://marcogong.github.io/files/EcoCapsule-demo.pdf)]
 
 [2] **Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
 <br/>
