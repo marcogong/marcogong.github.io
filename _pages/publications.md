@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 ## Papers
 
-[1] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper)
+[1] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper, <font color='red'> Best Demo Award Runner-Up</font>)
 <br/>
 **Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 <br/>
