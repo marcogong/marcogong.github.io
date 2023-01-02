@@ -11,8 +11,8 @@ redirect_from:
 
 If you would like to request my CV in pdf version, please feel free to send me an [email](mailto:marcogong22@gmail.com) specifying your purpose.
 ## Research Interest
-* Structural Health Monitoring
-* Backscatter System
+* Wireless Communication System
+* Backscatter
 * Piezoelectricity and Ultrasonics
 
 ## Education
@@ -37,6 +37,7 @@ Please check the [Publications](https://marcogong.github.io/publications/) page 
 
 ## Honors and Awards
 
+* ACM MobiCom'22 Best Demo Award Runner-up
 * Exam-free Recommendation for Postgraduate at Xidian University
 * University-level First Class Scholarship for Postgraduate
 * University-level Scholarships for Undergraduate
