@@ -11,6 +11,6 @@ redirect_from:
 
 
 
-* [Upcoming conferences]([https://conferencetracker.github.io/](https://ccfddl.github.io/))
+* [Upcoming conferences](https://ccfddl.github.io/)
 * [Markdown Files](https://my.oschina.net/epoch/blog/1791505)
 
