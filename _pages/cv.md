@@ -37,7 +37,7 @@ Please check the [Publications](https://marcogong.github.io/publications/) page 
 
 ## Honors and Awards
 
-* ACM MobiCom'22 Best Demo Award Runner-up
+* <font color="red">ACM MobiCom'22 Best Demo Award Runner-up</font>
 * Exam-free Recommendation for Postgraduate at Xidian University
 * University-level First Class Scholarship for Postgraduate
 * University-level Scholarships for Undergraduate
