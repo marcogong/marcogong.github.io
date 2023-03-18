@@ -12,7 +12,7 @@ redirect_from:
 If you would like to request my CV in pdf version, please feel free to send me an [email](mailto:marcogong22@gmail.com) specifying your purpose.
 ## Research Interest
 * Wireless Communication System
-* Backscatter
+* Battery-free IoT and Backscatter
 * Piezoelectricity and Ultrasonics
 
 ## Education
@@ -45,7 +45,10 @@ Please check the [Publications](https://marcogong.github.io/publications/) page 
 
 
 ## Teaching Services
-Teaching Assistant: 2021-2022 Semester 1-2, ENG2003 Information Technology Part II(Database), The Hong Kong Polytechnic University
+
+Teaching Assistant: 
+* 2021-2022 Semester 1-2, ENG2003 Information Technology Part II(Database), The Hong Kong Polytechnic University
+* 2022-2023 Semester 1-2, ENG2003 Information Technology Part II(Database), The Hong Kong Polytechnic University
 
 
 <hr style="border:1px solid gray"/> 
