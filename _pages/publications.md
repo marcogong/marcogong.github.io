@@ -23,6 +23,7 @@ author_profile: true
 <br/>
 
 [2] **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+<br/>
 Donghui Dai, Zhenlin An, **Zheng Gong**, Qingrui Pan, Lei Yang
 <br/>
 *USENIX NSDI*, 2024 (CCF RANK A, Accepted)
