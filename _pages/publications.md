@@ -22,7 +22,13 @@ author_profile: true
 *ACM MobiCom*, 2024 (CCF RANK A, Conditionally Accepted)
 <br/>
 
-[2] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper, <font color="red">Best Demo Award Runner-Up</font>)
+[2] **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
+Donghui Dai, Zhenlin An, **Zheng Gong**, Qingrui Pan, Lei Yang
+<br/>
+*USENIX NSDI*, 2024 (CCF RANK A, Accepted)
+<br/>
+
+[3] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper, <font color="red">Best Demo Award Runner-Up</font>)
 <br/>
 **Zheng Gong**, Zhenlin An, Jingyu Tong, Donghui Dai, Lei Yang
 <br/>
@@ -30,7 +36,7 @@ author_profile: true
 <br/>
 [[Paper](https://marcogong.github.io/files/EcoCapsule-demo.pdf)]
 
-[3] **Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
+[4] **Empowering Smart Buildings with Self-Sensing Concrete for Structural Health Monitoring** 
 <br/>
 **Zheng Gong**, Zhenlin An, Lubing Han, Lei Yang, Siqi Ding, Yu Xiang
 <br/>
@@ -38,7 +44,7 @@ author_profile: true
 <br/>
 [[Paper](https://marcogong.github.io/files/EcoCapsule.pdf)] [[Website](https://anplus.github.io/In-concrete-Backscatter/)] [[Youtube video](https://youtu.be/gLRCQy2Q134)][[Bilibili video](https://www.bilibili.com/video/bv1Cg411S7R8)]
 
-[4] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
+[5] **SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data** (Demo Paper)
 <br/>
 Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
@@ -46,7 +52,7 @@ Kechun Zhao, Hui Li, **Zheng Gong**, Jiangtao Cui
 <br/>
 [[Paper](https://marcogong.github.io/files/de3084-zhaoA.pdf)] 
 
-[5] **Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset**
+[6] **Instance-Aware Evaluation of Sensitive Columns in Tabular Dataset**
 <br/>
  **Zheng Gong**, Kechun Zhao, Hui Li, Yingxue Wang
 <br/>
