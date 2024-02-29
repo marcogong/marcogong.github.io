@@ -19,7 +19,7 @@ author_profile: true
 <br/>
 **Zheng Gong**, Zhenlin An, Donghui Dai, Jingyu Tong, Shuijie Long, Lei Yang
 <br/>
-*ACM MobiCom*, 2024 (CCF RANK A, Conditionally Accepted)
+*ACM MobiCom*, 2024 (CCF RANK A, Accepted)
 <br/>
 
 [2] **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields**
