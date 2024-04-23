@@ -28,6 +28,7 @@ Donghui Dai, Zhenlin An, **Zheng Gong**, Qingrui Pan, Lei Yang
 <br/>
 *USENIX NSDI*, 2024 (CCF RANK A, Accepted)
 <br/>
+[[Paper](https://marcogong.github.io/files/rfidplus.pdf)]
 
 [3] **Constructing Smart Buildings with In-concrete Backscatter Networks** (Demo Paper, <font color="red">Best Demo Award Runner-Up</font>)
 <br/>
